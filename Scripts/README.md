@@ -23,7 +23,7 @@ else:
 
 ## Carga todos los ficheros vectoriales de un directorio
 
-##Listado de campos: Nombre y tipo
+## Listado de campos: Nombre y tipo
 
 ```
 for field in vlayer.fields():
