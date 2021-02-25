@@ -1,4 +1,4 @@
-# Script en Qgis
+# Script en QGis
 
 ## Carga ficheros vectoriales
 
