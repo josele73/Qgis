@@ -1,4 +1,4 @@
-# Etiquetados condicionales enm QGIS
+# Etiquetados condicionales en QGIS
 
 ## Para que con base en una variable puedan asignar tamaños a las letras de su etiqueta.
 
