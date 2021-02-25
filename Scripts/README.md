@@ -23,4 +23,9 @@ else:
 
 ## Carga todos los ficheros vectoriales de un directorio
 
-## Recorrer atributos shape
+##Listado de campos: Nombre y tipo
+
+```
+for field in vlayer.fields():
+    print(field.name(), field.typeName())
+```
