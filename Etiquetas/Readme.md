@@ -6,3 +6,5 @@ CASE WHEN "VPH_INTER" IN ( '*','N/D') THEN '5'Else'10'END
 
 CASE WHEN "VPH_INTER" IN ( '*','N/D') THEN '5' Else'10' END 
 
+![Alt text](EvAjaewVIAAU1ed.png?raw=true "Title")
+
