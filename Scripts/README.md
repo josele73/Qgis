@@ -2,6 +2,7 @@
 
 ## Carga ficheros vectoriales
 
+carga_vectorial.py
 ```
 import os 
 from qgis.core import *
@@ -19,3 +20,7 @@ else:
     QgsProject.instance().addMapLayer(vlayer)
     print("Fichero cargado")
 ````
+
+## Carga todos los ficheros vectoriales de un directorio
+
+## Recorrer atributos shape
