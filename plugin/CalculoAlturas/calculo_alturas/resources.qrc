@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/Calculo_alturas" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
